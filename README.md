@@ -1,2 +1,2 @@
 # DesignPlanet
-Company Websitw
+Company Website
